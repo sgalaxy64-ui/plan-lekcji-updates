@@ -1,5 +1,5 @@
 {
-  "version": "0.3.15",
+  "version": "0.3.16",
   "url": "https://planlekcji-pobierz.sgalaxy64.workers.dev/download",
-  "info": "Wprowadzono poprawki do ostatniej wersji programu. Zmieniony wybór pracy czasu nauczyciela - do godz.20.30"
+  "info": "Poprawiono możliwości edycji wygenerowanego planu (pkt.17a w Instrukcji)"
 }
