@@ -1,5 +1,5 @@
 {
-  "version": "0.3.16",
+  "version": "0.3.17",
   "url": "https://planlekcji-pobierz.sgalaxy64.workers.dev/download",
-  "info": "Poprawiono możliwości edycji wygenerowanego planu (pkt.17a w Instrukcji)"
+  "info": "Poprawiono ilość wygenerowanych Planów lekcji do 10."
 }
